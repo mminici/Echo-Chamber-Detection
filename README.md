@@ -2,7 +2,7 @@ Before running any experiment, we suggest you install the provided conda environ
 > How to install the conda environment: ```conda env create --file environment.yml```
 
 # Running an experiment
-In both sections, the parameters highlighted in bold are the ones you should modify in order to fully reproduce our evidence.
+In both sections, the parameters highlighted in bold are the ones you should modify in order to fully reproduce our results.
 
 ## Synthetic Experiments
 
