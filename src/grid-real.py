@@ -304,7 +304,7 @@ def run_experiment(
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('--seed', type=int, nargs='*', default=[12121995, ])
-    parser.add_argument('--dataset', type=str, default="referendum_new", dest="dataset")
+    parser.add_argument('--dataset', type=str, default="brexit", dest="dataset")
     parser.add_argument('--K', type=int, nargs='*', default=[8, ])
     parser.add_argument('--s', type=int, nargs='*', default=[8, ])
     parser.add_argument('--h', type=int, nargs='*', default=[16, ])
