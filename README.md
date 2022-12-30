@@ -1,3 +1,7 @@
+**Update: Use this [colab notebook](https://colab.research.google.com/drive/1s0wEW3IvUfrUZOcsXMo_GqTwISt63R8F?usp=sharing) to reproduce our results**
+
+---
+
 Before running any experiment, we suggest you install the provided conda environment.
 > How to install the conda environment: ```conda env create --file environment.yml```
 
